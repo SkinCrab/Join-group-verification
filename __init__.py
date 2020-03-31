@@ -42,7 +42,7 @@ async def _(session: CommandSession):
                 code=None
             else :
                 await session.bot.set_group_kick(user_id=session.event.user_id,group_id=session.event.group_id)
-                await session.send("很遗憾，这位朋友被s移出了群聊")
+                await session.send("很遗憾，这位朋友被移出了群聊")
                 flag=True
                 code=None
 
