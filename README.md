@@ -24,3 +24,7 @@ This is a plugin based on nonebot. (英文编不下去了
 接着当有用户入群时，它将自动生成一个二维码，放置于C://code/下。
 
 注意，该插件还在完善当中，如有不足 请自行修改XD
+
+## 感谢
+
+非常感谢 [Parksi](https://github.com/Lparksi) 在我编写这个插件时给予的帮助。
