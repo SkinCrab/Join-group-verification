@@ -19,7 +19,7 @@ This is a plugin based on nonebot. (英文编不下去了
 
 然后你要在C盘下创建一个名为Code的文件夹，以放置生成的二维码图片
 
-由于插件中的字体路径使用了<font color="#dd0000">绝对路径</font>，所以你要把这个插件放置在 skincrab/plugins/JoinGroupVerification 里
+由于插件中的字体路径使用了绝对路径，所以你要把这个插件放置在 skincrab/plugins/JoinGroupVerification 里
 
 接着当有用户入群时，它将自动生成一个二维码，放置于C://code/下。
 
