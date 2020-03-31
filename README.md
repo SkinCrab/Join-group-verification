@@ -5,8 +5,11 @@
 ## Introduction
 
 This is a plugin based on nonebot. (英文编不下去了
+
 这是一个基于nonebot的插件
+
 它可以实现当有用户入群时发送验证码，以判断该用户是否为真人（好像没啥用的样子
+
 
 它还在编写完善当中
 
