@@ -27,7 +27,7 @@ def rand_str():
 
 def draw_letter(num,image,font_size):
     draw = ImageDraw.Draw(image)
-    font_file = os.path.join('.\skincrab\plugins\JoinGroupVerification\Courier-New.ttf')
+    font_file = os.path.join(os.path.dirname(__file__).replace('\\','/')+"/Courier-New.ttf")
     font = ImageFont.truetype(font_file, size=font_size)
     temp = []
     for i in range(num):
